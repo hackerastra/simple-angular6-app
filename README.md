@@ -5,7 +5,7 @@ This App is a Simple Angular 6 App which uses
 1. Angular Components
 2. HTTP Client
 3. Angular Routing
-4. Services
+4. Services TEST
 5. Very Basic Bootstrap
 6. Communication from parent to child component
 
